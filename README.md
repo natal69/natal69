@@ -5,14 +5,18 @@
 ---
 
 # Hi there, I'm Natal! 👋🚀
-### 🎓 Information Technology Student | 🤖 IoT & AI Enthusiast
+### 💻 Full Stack Developer | 🤖 AI & Computer Vision | 📡 IoT Engineer
 
-Saya adalah mahasiswa tingkat akhir yang berfokus pada pengembangan sistem cerdas menggunakan **Computer Vision (YOLO)** dan **Internet of Things (IoT)**. Hobi ngoding, eksperimen dengan AI, dan minum kopi. ☕
+Seorang pengembang teknologi yang berdedikasi membangun solusi cerdas yang menghubungkan **Software** dan **Hardware**. Spesialisasi saya meliputi **Computer Vision (YOLO)**, **Internet of Things (IoT)**, dan pengembangan sistem terintegrasi yang efisien.
+
+* 🔭 Sedang mengerjakan: **Sistem Penghitung Jemaat Real-Time (AI + IoT)**
+* 🌱 Sedang mempelajari: **Edge Computing & Smart System Integration**
+* ⚡ Fun fact: Saya bisa mengubah kopi menjadi kode. ☕ ➡️ 💻
 
 ---
 
-### 💻 Arsenal & Teknologi (Tech Stack)
-Ini adalah semua bahasa dan tools yang saya pelajari dan gunakan:
+### 🛠️ Arsenal & Teknologi (Tech Stack)
+Tools, bahasa pemrograman, dan perangkat keras yang saya kuasai:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -27,17 +31,17 @@ Ini adalah semua bahasa dan tools yang saya pelajari dan gunakan:
 <p align="center">
   <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -59,5 +63,5 @@ Ini adalah semua bahasa dan tools yang saya pelajari dan gunakan:
 
 ---
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+  <i>"Hardware is easy to protect: lock it in a room. Software is safe only if you write it right."</i>
 </div>
