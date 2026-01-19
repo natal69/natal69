@@ -1,16 +1,25 @@
-## Hi there 👋
+# Halo, Saya Natal! 👋
+### Mahasiswa IT | IoT Enthusiast | Computer Vision
 
-<!--
-**natal69/natal69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya sedang mengerjakan Skripsi tentang **Sistem Penghitung Jemaat Menggunakan YOLOv8**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 Statistik GitHub Saya (Ini yang ada Gradenya!)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=natal69&show_icons=true&theme=radical&count_private=true" alt="Natal69 Stats" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=natal69&layout=compact&theme=radical" alt="Top Langs" />
+
+</div>
